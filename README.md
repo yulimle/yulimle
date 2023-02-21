@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/velog?style=for-the-badge&logo=velog&logoColor=black">
+<img src="https://img.shields.io/badge/#20C997?style=for-the-badge&logo=velog&logoColor=black">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulimle&show_icons=true&theme=radical)
