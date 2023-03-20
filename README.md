@@ -16,11 +16,9 @@
 <a href="https://www.notion.so/Yulim-Lee-1ba843e5f825443893cae60a18774186?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@yulimle"><img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=white"/></a><br><br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulimle&show_icons=true&theme=onedark)<br><br>
+![Yulim's github stats](https://github-readme-stats.vercel.app/api?username=yulimle&show_icons=true&theme=onedark)
   
 <div/>
-
-
 
 <!--
 
